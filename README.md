@@ -17,7 +17,3 @@ ENV UUID de04add9-5c68-8bab-950c-08cd5320df18
 ENV VMESS_WSPATH /vm
 ENV VLESS_WSPATH /vl
 </code></pre>
-
-Hello everyone! Doprax pays great attention to user experience. Mr. Hemen and his team have created a Discord service for the Doprax community. If you encounter any problems or have any suggestions related to the Doprax platform during use, please contact the official using the link below.
-
-https://discord.gg/pFnGwTuXjk</p>
